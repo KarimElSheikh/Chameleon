@@ -1,6 +1,9 @@
 # Chameleon
 A game made in Unity where you control a sphere that is moving on a track and trying to match colours.
 
+## How to play
+Just download and extract the zip archive **Chameleon.zip** to any folder, and launch the game using **Chameleon.exe**.
+
 ## Gameplay
 The goal of the game is to change the colour of the
 sphere so it is the same as the colour of the ground it is currently in. Throughout the game the
