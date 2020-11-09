@@ -33,3 +33,7 @@ alt="https://www.youtube.com/watch?v=WTq_cL1DKtQ" width="640" height="360" borde
 2. The player jumps by pressing 'Spacebar'.
 3. The player changes color using the 'Q', 'W', and 'E' buttons for red, blue, and green respectively.
 4. The player can pause by pressing the 'Esc' button.
+
+## Notes
+
+This project was completed in October 2016.
