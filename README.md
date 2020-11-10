@@ -23,8 +23,8 @@ As the game goes on, the sphere rolls faster and faster...
 
 A video showing gameplay of the game
 
-<a href="https://www.youtube.com/watch?feature=player_embedded&v=WTq_cL1DKtQ
-" target="_blank"><img src="http://img.youtube.com/vi/WTq_cL1DKtQ/0.jpg" 
+<a href="https://www.youtube.com/watch?v=WTq_cL1DKtQ
+" target="_blank"><img src="https://user-images.githubusercontent.com/10839251/98711341-25fea500-2385-11eb-81d1-54b251bc12c2.png" 
 alt="https://www.youtube.com/watch?v=WTq_cL1DKtQ" width="640" height="360" border="10" /></a>
 
 ## Controls
