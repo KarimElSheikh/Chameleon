@@ -1,5 +1,5 @@
 # Chameleon
-A 3D game made in Unity where you control a sphere that is moving on a track and trying to match colors.
+A 3D game made in Unity where you control a sphere that is moving on a track and trying to match colors with the ground.
 
 ## How to play
 Just download and extract the zip archive **Chameleon.zip** to any folder, and then launch the game using **Chameleon.exe**.
